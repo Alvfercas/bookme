@@ -1,0 +1,6 @@
+application/config/config.php
+application/config/database.php
+
+vendor
+
+composer.lock
